@@ -1,0 +1,44 @@
+.caja_roja{
+	width: 400px;
+	height: 400px;
+	background-color:red;
+	position: absolute;
+}
+.cuadrado_morado{
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+	position: relative;
+	left: 100px;
+	top:100px;
+}
+.cuadrado_amarillo{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	position: relative;
+	left: 100px;
+	bottom: 100px;
+}
+.caja_azul{
+	width: 400px;
+	height: 400px;
+	background-color:blue;
+	position: absolute;
+	top:430px;
+}
+.cuadrado_verde{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	position: relative;
+	left: 100px;
+	top:100px;
+}
+.cuadrado_negro{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	position: relative;
+	bottom: 200px;
+}
